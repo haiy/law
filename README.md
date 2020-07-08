@@ -1,4 +1,4 @@
-##  司考之路
+##  [司考之路](haihome.top/law)
 
 - [0_考试信息](sifakaoshi/0_考试信息.md)
   - [1_准备方法和计划](sifakaoshi/1_准备方法和计划.md)
