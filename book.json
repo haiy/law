@@ -1,23 +1,25 @@
 {
-  "title": "law",
-  "plugins": [
-    "anchors",
-    "anchor-navigation-ex",
-    "expandable-chapters",
-    "theme-comscore",
-    "local-video"
-  ],
-  "pluginsConfig": {
-    "anchor-navigation-ex": {
-        "showLevel": false,
-        "float": {
-            "showLevelIcon": false,
-            "level1Icon": "fa fa-hand-o-right",
-            "level2Icon": "fa fa-hand-o-right",
-            "level3Icon": "fa fa-hand-o-right"
+    "title": "law",
+    "plugins": [
+        "search",
+        "-lunr",
+        "anchors",
+        "anchor-navigation-ex",
+        "expandable-chapters",
+        "theme-comscore",
+        "local-video"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "float": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
         }
-    }
 
-  }
+    }
 }
 
