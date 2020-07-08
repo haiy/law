@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 .toc {
     font-size: 95%;
     @media #{$large} {
