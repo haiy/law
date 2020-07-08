@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.markdown-toc {
+#markdown-toc {
     font-size: 95%;
     @media #{$large} {
         display: block;
