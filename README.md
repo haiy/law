@@ -10,7 +10,7 @@
   - [民法典](sifakaoshi/2_民法/民法典.md)
   - [民法典的意义](sifakaoshi/2_民法/拓展资料/1.md)
 
-
+- [官方法律释义](http://www.npc.gov.cn/npc/c1793/flsyywd.shtml)
 
 Src From:  <https://github.com/haiy/law>
 
