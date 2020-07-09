@@ -7,7 +7,7 @@
   - [刑法笔记](sifakaoshi/0_刑法/note.md)
 - [民法](sifakaoshi/2_民法/README.md)
   - [注记](sifakaoshi/2_民法/注记.md)
-  - [民法典](sifakaoshi/2_民法/民法典.md)
+  - <span style='color:red'>[**民法典**](sifakaoshi/2_民法/民法典.md)</span>
   - [民法典的意义](sifakaoshi/2_民法/拓展资料/1.md)
 
 - [官方法律释义](http://www.npc.gov.cn/npc/c1793/flsyywd.shtml)
