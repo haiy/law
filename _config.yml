@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 google_analytics: G-0CJ2ZJYZGH
+plugins:
+     - jekyll-admin
   
