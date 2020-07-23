@@ -16,8 +16,11 @@
   - [全国人大网](http://www.npc.gov.cn/)
   - [司法部](http://www.moj.gov.cn/)
   - [司法释义](http://www.npc.gov.cn/npc/c1793/flsyywd.shtml)
-  - [法律](http://www.moj.gov.cn/Department/node_592.html)
-- [官方法律释义](http://www.npc.gov.cn/npc/c1793/flsyywd.shtml)
+  - [法律条文](http://www.moj.gov.cn/Department/node_592.html)
+  - [法制网理论案例](http://www.legaldaily.com.cn/fxjy/node_89855.htm)
+  - [案例评析](http://www.legaldaily.com.cn/Lawyer/node_75901.htm)
+  - [互联网法制](http://www.legaldaily.com.cn/IT/node_69448.htm)
+  - [法律法规数据库](http://search.chinalaw.gov.cn/search2.html)
 
 Src From:  <https://github.com/haiy/law>
 
