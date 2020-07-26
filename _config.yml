@@ -1,15 +1,16 @@
 theme: jekyll-theme-cayman
 google_analytics: G-0CJ2ZJYZGH
 encoding: utf-8
+search: true
+
 collections:
     laws:
-        output: true
+      output: true
 defaults:
-- scope:
-    path: _laws
-    type: posts
-  values:
-    layout: default
+  - scope:
+      path: _laws      
+    values:
+      layout: law
 exclude:
 - ".gitignore"
 - "tools"

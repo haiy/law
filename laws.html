@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for staff_member in site.laws %}
+<p>
+    <a href="{{ staff_member.url }}">
+      {{ staff_member.title }}
+    </a>
+</p>
+{% endfor %}
