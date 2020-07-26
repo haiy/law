@@ -1,0 +1,7 @@
+sifakaoshi/docs/*
+sifakaoshi/bad/*
+.git/*
+.DS_Store
+.ipynb_checkpoints
+sifakaoshi/laws/docs/.ipynb_checkpoints
+
