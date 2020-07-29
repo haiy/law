@@ -8,6 +8,7 @@
   
   - [刑法](sifakaoshi/0_刑法/中华人民共和国刑法.md)
   - [刑法笔记](sifakaoshi/0_刑法/note.md)
+  - [刑法笔记2](sifakaoshi/0_刑法/note2.md)
   
 - 刑诉
 
